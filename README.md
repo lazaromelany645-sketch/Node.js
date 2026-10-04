@@ -132,7 +132,6 @@ logistica
 
 La tabla `activos` está relacionada con la tabla `categorias`.
 
-# CRUD
 
 ## CREATE
 
